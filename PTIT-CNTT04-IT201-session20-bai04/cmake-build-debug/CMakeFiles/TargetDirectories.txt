@@ -1,0 +1,3 @@
+D:/session20/PTIT-CNTT04-IT201-session20-bai04/cmake-build-debug/CMakeFiles/PTIT_CNTT04_IT201_session20_bai04.dir
+D:/session20/PTIT-CNTT04-IT201-session20-bai04/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/session20/PTIT-CNTT04-IT201-session20-bai04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
